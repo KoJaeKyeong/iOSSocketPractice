@@ -1,0 +1,7 @@
+*.xcodeproj/*
+*.xcodeproj/project.pbxproj
+*.xcodeproj/xcshareddata/
+*.xcworkspace/
+**/xcshareddata/WorkspaceSettings.xcsettings
+Pods/
+
